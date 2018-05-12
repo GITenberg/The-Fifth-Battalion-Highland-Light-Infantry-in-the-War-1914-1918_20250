@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9185'
     url: http://www.gutenberg.org/2009/agents/9185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20250#The-Fifth-Battalion-Highland-Light-Infantry-in-the-War-1914-1918
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-01-02'
 gutenberg_type: Text
